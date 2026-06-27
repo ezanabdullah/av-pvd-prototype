@@ -1,0 +1,619 @@
+exploit,block,vscore,alert
+The DAO (2016) — Reentrancy,0,0.035733,0
+The DAO (2016) — Reentrancy,1,0.033954,0
+The DAO (2016) — Reentrancy,2,0.032867,0
+The DAO (2016) — Reentrancy,3,0.031278,0
+The DAO (2016) — Reentrancy,4,0.029131,0
+The DAO (2016) — Reentrancy,5,0.059535,0
+The DAO (2016) — Reentrancy,6,0.051010,0
+The DAO (2016) — Reentrancy,7,0.032891,0
+The DAO (2016) — Reentrancy,8,0.029620,0
+The DAO (2016) — Reentrancy,9,0.026524,0
+The DAO (2016) — Reentrancy,10,0.284648,0
+The DAO (2016) — Reentrancy,11,0.331043,0
+The DAO (2016) — Reentrancy,12,0.127339,0
+The DAO (2016) — Reentrancy,13,0.349938,0
+The DAO (2016) — Reentrancy,14,0.238621,0
+The DAO (2016) — Reentrancy,15,0.189226,0
+The DAO (2016) — Reentrancy,16,0.167313,0
+The DAO (2016) — Reentrancy,17,0.139541,0
+The DAO (2016) — Reentrancy,18,0.121702,0
+The DAO (2016) — Reentrancy,19,0.070749,0
+The DAO (2016) — Reentrancy,20,0.113779,0
+The DAO (2016) — Reentrancy,21,0.095400,0
+The DAO (2016) — Reentrancy,22,0.146038,0
+The DAO (2016) — Reentrancy,23,0.116958,0
+The DAO (2016) — Reentrancy,24,0.125711,0
+The DAO (2016) — Reentrancy,25,0.136545,0
+The DAO (2016) — Reentrancy,26,0.098348,0
+The DAO (2016) — Reentrancy,27,0.077136,0
+The DAO (2016) — Reentrancy,28,0.106555,0
+The DAO (2016) — Reentrancy,29,0.093127,0
+The DAO (2016) — Reentrancy,30,0.146244,0
+The DAO (2016) — Reentrancy,31,0.079529,0
+The DAO (2016) — Reentrancy,32,0.088802,0
+The DAO (2016) — Reentrancy,33,0.069573,0
+The DAO (2016) — Reentrancy,34,0.056714,0
+The DAO (2016) — Reentrancy,35,0.071318,0
+The DAO (2016) — Reentrancy,36,0.057491,0
+The DAO (2016) — Reentrancy,37,0.077428,0
+The DAO (2016) — Reentrancy,38,0.066941,0
+The DAO (2016) — Reentrancy,39,0.031921,0
+The DAO (2016) — Reentrancy,40,0.068029,0
+The DAO (2016) — Reentrancy,41,0.087779,0
+The DAO (2016) — Reentrancy,42,0.047448,0
+The DAO (2016) — Reentrancy,43,0.047730,0
+The DAO (2016) — Reentrancy,44,0.039993,0
+The DAO (2016) — Reentrancy,45,0.029006,0
+The DAO (2016) — Reentrancy,46,0.045388,0
+The DAO (2016) — Reentrancy,47,0.064839,0
+The DAO (2016) — Reentrancy,48,0.030843,0
+The DAO (2016) — Reentrancy,49,0.015032,0
+The DAO (2016) — Reentrancy,50,0.030107,0
+The DAO (2016) — Reentrancy,51,0.033105,0
+The DAO (2016) — Reentrancy,52,0.017281,0
+The DAO (2016) — Reentrancy,53,0.021866,0
+The DAO (2016) — Reentrancy,54,0.036354,0
+The DAO (2016) — Reentrancy,55,0.015747,0
+The DAO (2016) — Reentrancy,56,0.037201,0
+The DAO (2016) — Reentrancy,57,0.029774,0
+The DAO (2016) — Reentrancy,58,0.012982,0
+The DAO (2016) — Reentrancy,59,0.017027,0
+The DAO (2016) — Reentrancy,60,0.031842,0
+The DAO (2016) — Reentrancy,61,0.007377,0
+The DAO (2016) — Reentrancy,62,0.094686,0
+The DAO (2016) — Reentrancy,63,0.035511,0
+The DAO (2016) — Reentrancy,64,0.086082,0
+The DAO (2016) — Reentrancy,65,0.057094,0
+The DAO (2016) — Reentrancy,66,0.042017,0
+The DAO (2016) — Reentrancy,67,0.050105,0
+The DAO (2016) — Reentrancy,68,0.049399,0
+The DAO (2016) — Reentrancy,69,0.040831,0
+The DAO (2016) — Reentrancy,70,0.024787,0
+The DAO (2016) — Reentrancy,71,0.017428,0
+The DAO (2016) — Reentrancy,72,0.036072,0
+The DAO (2016) — Reentrancy,73,0.018658,0
+The DAO (2016) — Reentrancy,74,0.031579,0
+The DAO (2016) — Reentrancy,75,0.015398,0
+The DAO (2016) — Reentrancy,76,0.037292,0
+The DAO (2016) — Reentrancy,77,0.016116,0
+The DAO (2016) — Reentrancy,78,0.018163,0
+The DAO (2016) — Reentrancy,79,0.033947,0
+The DAO (2016) — Reentrancy,80,0.032546,0
+The DAO (2016) — Reentrancy,81,0.026632,0
+The DAO (2016) — Reentrancy,82,0.018489,0
+The DAO (2016) — Reentrancy,83,0.075601,0
+The DAO (2016) — Reentrancy,84,0.035663,0
+The DAO (2016) — Reentrancy,85,0.021169,0
+The DAO (2016) — Reentrancy,86,0.011739,0
+The DAO (2016) — Reentrancy,87,0.008588,0
+The DAO (2016) — Reentrancy,88,0.020101,0
+The DAO (2016) — Reentrancy,89,0.010052,0
+The DAO (2016) — Reentrancy,90,0.021999,0
+The DAO (2016) — Reentrancy,91,0.008876,0
+The DAO (2016) — Reentrancy,92,0.008880,0
+The DAO (2016) — Reentrancy,93,0.019728,0
+The DAO (2016) — Reentrancy,94,0.018553,0
+The DAO (2016) — Reentrancy,95,0.010404,0
+The DAO (2016) — Reentrancy,96,0.007806,0
+The DAO (2016) — Reentrancy,97,0.014277,0
+The DAO (2016) — Reentrancy,98,0.005637,0
+The DAO (2016) — Reentrancy,99,0.008400,0
+The DAO (2016) — Reentrancy,100,0.411527,1
+The DAO (2016) — Reentrancy,101,0.452241,1
+The DAO (2016) — Reentrancy,102,0.491004,1
+The DAO (2016) — Reentrancy,103,0.008436,0
+The DAO (2016) — Reentrancy,104,0.007716,0
+The DAO (2016) — Reentrancy,105,0.007276,0
+The DAO (2016) — Reentrancy,106,0.008817,0
+The DAO (2016) — Reentrancy,107,0.011156,0
+The DAO (2016) — Reentrancy,108,0.008890,0
+The DAO (2016) — Reentrancy,109,0.014922,0
+The DAO (2016) — Reentrancy,110,0.007689,0
+The DAO (2016) — Reentrancy,111,0.005421,0
+The DAO (2016) — Reentrancy,112,0.005885,0
+The DAO (2016) — Reentrancy,113,0.013777,0
+The DAO (2016) — Reentrancy,114,0.004348,0
+The DAO (2016) — Reentrancy,115,0.004270,0
+The DAO (2016) — Reentrancy,116,0.004848,0
+The DAO (2016) — Reentrancy,117,0.003938,0
+The DAO (2016) — Reentrancy,118,0.003840,0
+The DAO (2016) — Reentrancy,119,0.005977,0
+The DAO (2016) — Reentrancy,120,0.003422,0
+The DAO (2016) — Reentrancy,121,0.003640,0
+The DAO (2016) — Reentrancy,122,0.010912,0
+The DAO (2016) — Reentrancy,123,0.003058,0
+Wormhole (2022) — Signature By,0,0.035733,0
+Wormhole (2022) — Signature By,1,0.033954,0
+Wormhole (2022) — Signature By,2,0.032867,0
+Wormhole (2022) — Signature By,3,0.031278,0
+Wormhole (2022) — Signature By,4,0.029131,0
+Wormhole (2022) — Signature By,5,0.059535,0
+Wormhole (2022) — Signature By,6,0.051010,0
+Wormhole (2022) — Signature By,7,0.032891,0
+Wormhole (2022) — Signature By,8,0.029620,0
+Wormhole (2022) — Signature By,9,0.026524,0
+Wormhole (2022) — Signature By,10,0.284648,0
+Wormhole (2022) — Signature By,11,0.331043,0
+Wormhole (2022) — Signature By,12,0.127339,0
+Wormhole (2022) — Signature By,13,0.349938,0
+Wormhole (2022) — Signature By,14,0.238621,0
+Wormhole (2022) — Signature By,15,0.189226,0
+Wormhole (2022) — Signature By,16,0.167313,0
+Wormhole (2022) — Signature By,17,0.139541,0
+Wormhole (2022) — Signature By,18,0.121702,0
+Wormhole (2022) — Signature By,19,0.070749,0
+Wormhole (2022) — Signature By,20,0.113779,0
+Wormhole (2022) — Signature By,21,0.095400,0
+Wormhole (2022) — Signature By,22,0.146038,0
+Wormhole (2022) — Signature By,23,0.116958,0
+Wormhole (2022) — Signature By,24,0.125711,0
+Wormhole (2022) — Signature By,25,0.136545,0
+Wormhole (2022) — Signature By,26,0.098348,0
+Wormhole (2022) — Signature By,27,0.077136,0
+Wormhole (2022) — Signature By,28,0.106555,0
+Wormhole (2022) — Signature By,29,0.093127,0
+Wormhole (2022) — Signature By,30,0.146244,0
+Wormhole (2022) — Signature By,31,0.079529,0
+Wormhole (2022) — Signature By,32,0.088802,0
+Wormhole (2022) — Signature By,33,0.069573,0
+Wormhole (2022) — Signature By,34,0.056714,0
+Wormhole (2022) — Signature By,35,0.071318,0
+Wormhole (2022) — Signature By,36,0.057491,0
+Wormhole (2022) — Signature By,37,0.077428,0
+Wormhole (2022) — Signature By,38,0.066941,0
+Wormhole (2022) — Signature By,39,0.031921,0
+Wormhole (2022) — Signature By,40,0.068029,0
+Wormhole (2022) — Signature By,41,0.087779,0
+Wormhole (2022) — Signature By,42,0.047448,0
+Wormhole (2022) — Signature By,43,0.047730,0
+Wormhole (2022) — Signature By,44,0.039993,0
+Wormhole (2022) — Signature By,45,0.029006,0
+Wormhole (2022) — Signature By,46,0.045388,0
+Wormhole (2022) — Signature By,47,0.064839,0
+Wormhole (2022) — Signature By,48,0.030843,0
+Wormhole (2022) — Signature By,49,0.015032,0
+Wormhole (2022) — Signature By,50,0.030107,0
+Wormhole (2022) — Signature By,51,0.033105,0
+Wormhole (2022) — Signature By,52,0.017281,0
+Wormhole (2022) — Signature By,53,0.021866,0
+Wormhole (2022) — Signature By,54,0.036354,0
+Wormhole (2022) — Signature By,55,0.015747,0
+Wormhole (2022) — Signature By,56,0.037201,0
+Wormhole (2022) — Signature By,57,0.029774,0
+Wormhole (2022) — Signature By,58,0.012982,0
+Wormhole (2022) — Signature By,59,0.017027,0
+Wormhole (2022) — Signature By,60,0.031842,0
+Wormhole (2022) — Signature By,61,0.007377,0
+Wormhole (2022) — Signature By,62,0.094686,0
+Wormhole (2022) — Signature By,63,0.035511,0
+Wormhole (2022) — Signature By,64,0.086082,0
+Wormhole (2022) — Signature By,65,0.057094,0
+Wormhole (2022) — Signature By,66,0.042017,0
+Wormhole (2022) — Signature By,67,0.050105,0
+Wormhole (2022) — Signature By,68,0.049399,0
+Wormhole (2022) — Signature By,69,0.040831,0
+Wormhole (2022) — Signature By,70,0.024787,0
+Wormhole (2022) — Signature By,71,0.017428,0
+Wormhole (2022) — Signature By,72,0.036072,0
+Wormhole (2022) — Signature By,73,0.018658,0
+Wormhole (2022) — Signature By,74,0.031579,0
+Wormhole (2022) — Signature By,75,0.015398,0
+Wormhole (2022) — Signature By,76,0.037292,0
+Wormhole (2022) — Signature By,77,0.016116,0
+Wormhole (2022) — Signature By,78,0.018163,0
+Wormhole (2022) — Signature By,79,0.033947,0
+Wormhole (2022) — Signature By,80,0.032546,0
+Wormhole (2022) — Signature By,81,0.026632,0
+Wormhole (2022) — Signature By,82,0.018489,0
+Wormhole (2022) — Signature By,83,0.075601,0
+Wormhole (2022) — Signature By,84,0.035663,0
+Wormhole (2022) — Signature By,85,0.021169,0
+Wormhole (2022) — Signature By,86,0.011739,0
+Wormhole (2022) — Signature By,87,0.008588,0
+Wormhole (2022) — Signature By,88,0.020101,0
+Wormhole (2022) — Signature By,89,0.010052,0
+Wormhole (2022) — Signature By,90,0.021999,0
+Wormhole (2022) — Signature By,91,0.008876,0
+Wormhole (2022) — Signature By,92,0.008880,0
+Wormhole (2022) — Signature By,93,0.019728,0
+Wormhole (2022) — Signature By,94,0.018553,0
+Wormhole (2022) — Signature By,95,0.010404,0
+Wormhole (2022) — Signature By,96,0.007806,0
+Wormhole (2022) — Signature By,97,0.014277,0
+Wormhole (2022) — Signature By,98,0.005637,0
+Wormhole (2022) — Signature By,99,0.008400,0
+Wormhole (2022) — Signature By,100,0.399603,0
+Wormhole (2022) — Signature By,101,0.462751,1
+Wormhole (2022) — Signature By,102,0.026580,0
+Wormhole (2022) — Signature By,103,0.011754,0
+Wormhole (2022) — Signature By,104,0.009470,0
+Wormhole (2022) — Signature By,105,0.006212,0
+Wormhole (2022) — Signature By,106,0.015242,0
+Wormhole (2022) — Signature By,107,0.026034,0
+Wormhole (2022) — Signature By,108,0.005601,0
+Wormhole (2022) — Signature By,109,0.005842,0
+Wormhole (2022) — Signature By,110,0.023981,0
+Wormhole (2022) — Signature By,111,0.010844,0
+Wormhole (2022) — Signature By,112,0.015763,0
+Wormhole (2022) — Signature By,113,0.004362,0
+Wormhole (2022) — Signature By,114,0.004152,0
+Wormhole (2022) — Signature By,115,0.004426,0
+Wormhole (2022) — Signature By,116,0.006684,0
+Wormhole (2022) — Signature By,117,0.016750,0
+Wormhole (2022) — Signature By,118,0.003220,0
+Wormhole (2022) — Signature By,119,0.017969,0
+Wormhole (2022) — Signature By,120,0.003266,0
+Wormhole (2022) — Signature By,121,0.006649,0
+Wormhole (2022) — Signature By,122,0.009400,0
+Beanstalk (2022) — Flash Loan ,0,0.035733,0
+Beanstalk (2022) — Flash Loan ,1,0.033954,0
+Beanstalk (2022) — Flash Loan ,2,0.032867,0
+Beanstalk (2022) — Flash Loan ,3,0.031278,0
+Beanstalk (2022) — Flash Loan ,4,0.029131,0
+Beanstalk (2022) — Flash Loan ,5,0.059535,0
+Beanstalk (2022) — Flash Loan ,6,0.051010,0
+Beanstalk (2022) — Flash Loan ,7,0.032891,0
+Beanstalk (2022) — Flash Loan ,8,0.029620,0
+Beanstalk (2022) — Flash Loan ,9,0.026524,0
+Beanstalk (2022) — Flash Loan ,10,0.284648,0
+Beanstalk (2022) — Flash Loan ,11,0.331043,0
+Beanstalk (2022) — Flash Loan ,12,0.127339,0
+Beanstalk (2022) — Flash Loan ,13,0.349938,0
+Beanstalk (2022) — Flash Loan ,14,0.238621,0
+Beanstalk (2022) — Flash Loan ,15,0.189226,0
+Beanstalk (2022) — Flash Loan ,16,0.167313,0
+Beanstalk (2022) — Flash Loan ,17,0.139541,0
+Beanstalk (2022) — Flash Loan ,18,0.121702,0
+Beanstalk (2022) — Flash Loan ,19,0.070749,0
+Beanstalk (2022) — Flash Loan ,20,0.113779,0
+Beanstalk (2022) — Flash Loan ,21,0.095400,0
+Beanstalk (2022) — Flash Loan ,22,0.146038,0
+Beanstalk (2022) — Flash Loan ,23,0.116958,0
+Beanstalk (2022) — Flash Loan ,24,0.125711,0
+Beanstalk (2022) — Flash Loan ,25,0.136545,0
+Beanstalk (2022) — Flash Loan ,26,0.098348,0
+Beanstalk (2022) — Flash Loan ,27,0.077136,0
+Beanstalk (2022) — Flash Loan ,28,0.106555,0
+Beanstalk (2022) — Flash Loan ,29,0.093127,0
+Beanstalk (2022) — Flash Loan ,30,0.146244,0
+Beanstalk (2022) — Flash Loan ,31,0.079529,0
+Beanstalk (2022) — Flash Loan ,32,0.088802,0
+Beanstalk (2022) — Flash Loan ,33,0.069573,0
+Beanstalk (2022) — Flash Loan ,34,0.056714,0
+Beanstalk (2022) — Flash Loan ,35,0.071318,0
+Beanstalk (2022) — Flash Loan ,36,0.057491,0
+Beanstalk (2022) — Flash Loan ,37,0.077428,0
+Beanstalk (2022) — Flash Loan ,38,0.066941,0
+Beanstalk (2022) — Flash Loan ,39,0.031921,0
+Beanstalk (2022) — Flash Loan ,40,0.068029,0
+Beanstalk (2022) — Flash Loan ,41,0.087779,0
+Beanstalk (2022) — Flash Loan ,42,0.047448,0
+Beanstalk (2022) — Flash Loan ,43,0.047730,0
+Beanstalk (2022) — Flash Loan ,44,0.039993,0
+Beanstalk (2022) — Flash Loan ,45,0.029006,0
+Beanstalk (2022) — Flash Loan ,46,0.045388,0
+Beanstalk (2022) — Flash Loan ,47,0.064839,0
+Beanstalk (2022) — Flash Loan ,48,0.030843,0
+Beanstalk (2022) — Flash Loan ,49,0.015032,0
+Beanstalk (2022) — Flash Loan ,50,0.030107,0
+Beanstalk (2022) — Flash Loan ,51,0.033105,0
+Beanstalk (2022) — Flash Loan ,52,0.017281,0
+Beanstalk (2022) — Flash Loan ,53,0.021866,0
+Beanstalk (2022) — Flash Loan ,54,0.036354,0
+Beanstalk (2022) — Flash Loan ,55,0.015747,0
+Beanstalk (2022) — Flash Loan ,56,0.037201,0
+Beanstalk (2022) — Flash Loan ,57,0.029774,0
+Beanstalk (2022) — Flash Loan ,58,0.012982,0
+Beanstalk (2022) — Flash Loan ,59,0.017027,0
+Beanstalk (2022) — Flash Loan ,60,0.031842,0
+Beanstalk (2022) — Flash Loan ,61,0.007377,0
+Beanstalk (2022) — Flash Loan ,62,0.094686,0
+Beanstalk (2022) — Flash Loan ,63,0.035511,0
+Beanstalk (2022) — Flash Loan ,64,0.086082,0
+Beanstalk (2022) — Flash Loan ,65,0.057094,0
+Beanstalk (2022) — Flash Loan ,66,0.042017,0
+Beanstalk (2022) — Flash Loan ,67,0.050105,0
+Beanstalk (2022) — Flash Loan ,68,0.049399,0
+Beanstalk (2022) — Flash Loan ,69,0.040831,0
+Beanstalk (2022) — Flash Loan ,70,0.024787,0
+Beanstalk (2022) — Flash Loan ,71,0.017428,0
+Beanstalk (2022) — Flash Loan ,72,0.036072,0
+Beanstalk (2022) — Flash Loan ,73,0.018658,0
+Beanstalk (2022) — Flash Loan ,74,0.031579,0
+Beanstalk (2022) — Flash Loan ,75,0.015398,0
+Beanstalk (2022) — Flash Loan ,76,0.037292,0
+Beanstalk (2022) — Flash Loan ,77,0.016116,0
+Beanstalk (2022) — Flash Loan ,78,0.018163,0
+Beanstalk (2022) — Flash Loan ,79,0.033947,0
+Beanstalk (2022) — Flash Loan ,80,0.032546,0
+Beanstalk (2022) — Flash Loan ,81,0.026632,0
+Beanstalk (2022) — Flash Loan ,82,0.018489,0
+Beanstalk (2022) — Flash Loan ,83,0.075601,0
+Beanstalk (2022) — Flash Loan ,84,0.035663,0
+Beanstalk (2022) — Flash Loan ,85,0.021169,0
+Beanstalk (2022) — Flash Loan ,86,0.011739,0
+Beanstalk (2022) — Flash Loan ,87,0.008588,0
+Beanstalk (2022) — Flash Loan ,88,0.020101,0
+Beanstalk (2022) — Flash Loan ,89,0.010052,0
+Beanstalk (2022) — Flash Loan ,90,0.021999,0
+Beanstalk (2022) — Flash Loan ,91,0.008876,0
+Beanstalk (2022) — Flash Loan ,92,0.008880,0
+Beanstalk (2022) — Flash Loan ,93,0.019728,0
+Beanstalk (2022) — Flash Loan ,94,0.018553,0
+Beanstalk (2022) — Flash Loan ,95,0.010404,0
+Beanstalk (2022) — Flash Loan ,96,0.007806,0
+Beanstalk (2022) — Flash Loan ,97,0.014277,0
+Beanstalk (2022) — Flash Loan ,98,0.005637,0
+Beanstalk (2022) — Flash Loan ,99,0.008400,0
+Beanstalk (2022) — Flash Loan ,100,0.412474,1
+Beanstalk (2022) — Flash Loan ,101,0.007252,0
+Beanstalk (2022) — Flash Loan ,102,0.006938,0
+Beanstalk (2022) — Flash Loan ,103,0.009951,0
+Beanstalk (2022) — Flash Loan ,104,0.014850,0
+Beanstalk (2022) — Flash Loan ,105,0.008565,0
+Beanstalk (2022) — Flash Loan ,106,0.006379,0
+Beanstalk (2022) — Flash Loan ,107,0.009148,0
+Beanstalk (2022) — Flash Loan ,108,0.005466,0
+Beanstalk (2022) — Flash Loan ,109,0.006634,0
+Beanstalk (2022) — Flash Loan ,110,0.023463,0
+Beanstalk (2022) — Flash Loan ,111,0.006105,0
+Beanstalk (2022) — Flash Loan ,112,0.004452,0
+Beanstalk (2022) — Flash Loan ,113,0.004162,0
+Beanstalk (2022) — Flash Loan ,114,0.007922,0
+Beanstalk (2022) — Flash Loan ,115,0.025045,0
+Beanstalk (2022) — Flash Loan ,116,0.003710,0
+Beanstalk (2022) — Flash Loan ,117,0.017290,0
+Beanstalk (2022) — Flash Loan ,118,0.003264,0
+Beanstalk (2022) — Flash Loan ,119,0.003269,0
+Beanstalk (2022) — Flash Loan ,120,0.016462,0
+Beanstalk (2022) — Flash Loan ,121,0.003048,0
+Cream Finance (2021) — Flash L,0,0.035733,0
+Cream Finance (2021) — Flash L,1,0.033954,0
+Cream Finance (2021) — Flash L,2,0.032867,0
+Cream Finance (2021) — Flash L,3,0.031278,0
+Cream Finance (2021) — Flash L,4,0.029131,0
+Cream Finance (2021) — Flash L,5,0.059535,0
+Cream Finance (2021) — Flash L,6,0.051010,0
+Cream Finance (2021) — Flash L,7,0.032891,0
+Cream Finance (2021) — Flash L,8,0.029620,0
+Cream Finance (2021) — Flash L,9,0.026524,0
+Cream Finance (2021) — Flash L,10,0.284648,0
+Cream Finance (2021) — Flash L,11,0.331043,0
+Cream Finance (2021) — Flash L,12,0.127339,0
+Cream Finance (2021) — Flash L,13,0.349938,0
+Cream Finance (2021) — Flash L,14,0.238621,0
+Cream Finance (2021) — Flash L,15,0.189226,0
+Cream Finance (2021) — Flash L,16,0.167313,0
+Cream Finance (2021) — Flash L,17,0.139541,0
+Cream Finance (2021) — Flash L,18,0.121702,0
+Cream Finance (2021) — Flash L,19,0.070749,0
+Cream Finance (2021) — Flash L,20,0.113779,0
+Cream Finance (2021) — Flash L,21,0.095400,0
+Cream Finance (2021) — Flash L,22,0.146038,0
+Cream Finance (2021) — Flash L,23,0.116958,0
+Cream Finance (2021) — Flash L,24,0.125711,0
+Cream Finance (2021) — Flash L,25,0.136545,0
+Cream Finance (2021) — Flash L,26,0.098348,0
+Cream Finance (2021) — Flash L,27,0.077136,0
+Cream Finance (2021) — Flash L,28,0.106555,0
+Cream Finance (2021) — Flash L,29,0.093127,0
+Cream Finance (2021) — Flash L,30,0.146244,0
+Cream Finance (2021) — Flash L,31,0.079529,0
+Cream Finance (2021) — Flash L,32,0.088802,0
+Cream Finance (2021) — Flash L,33,0.069573,0
+Cream Finance (2021) — Flash L,34,0.056714,0
+Cream Finance (2021) — Flash L,35,0.071318,0
+Cream Finance (2021) — Flash L,36,0.057491,0
+Cream Finance (2021) — Flash L,37,0.077428,0
+Cream Finance (2021) — Flash L,38,0.066941,0
+Cream Finance (2021) — Flash L,39,0.031921,0
+Cream Finance (2021) — Flash L,40,0.068029,0
+Cream Finance (2021) — Flash L,41,0.087779,0
+Cream Finance (2021) — Flash L,42,0.047448,0
+Cream Finance (2021) — Flash L,43,0.047730,0
+Cream Finance (2021) — Flash L,44,0.039993,0
+Cream Finance (2021) — Flash L,45,0.029006,0
+Cream Finance (2021) — Flash L,46,0.045388,0
+Cream Finance (2021) — Flash L,47,0.064839,0
+Cream Finance (2021) — Flash L,48,0.030843,0
+Cream Finance (2021) — Flash L,49,0.015032,0
+Cream Finance (2021) — Flash L,50,0.030107,0
+Cream Finance (2021) — Flash L,51,0.033105,0
+Cream Finance (2021) — Flash L,52,0.017281,0
+Cream Finance (2021) — Flash L,53,0.021866,0
+Cream Finance (2021) — Flash L,54,0.036354,0
+Cream Finance (2021) — Flash L,55,0.015747,0
+Cream Finance (2021) — Flash L,56,0.037201,0
+Cream Finance (2021) — Flash L,57,0.029774,0
+Cream Finance (2021) — Flash L,58,0.012982,0
+Cream Finance (2021) — Flash L,59,0.017027,0
+Cream Finance (2021) — Flash L,60,0.031842,0
+Cream Finance (2021) — Flash L,61,0.007377,0
+Cream Finance (2021) — Flash L,62,0.094686,0
+Cream Finance (2021) — Flash L,63,0.035511,0
+Cream Finance (2021) — Flash L,64,0.086082,0
+Cream Finance (2021) — Flash L,65,0.057094,0
+Cream Finance (2021) — Flash L,66,0.042017,0
+Cream Finance (2021) — Flash L,67,0.050105,0
+Cream Finance (2021) — Flash L,68,0.049399,0
+Cream Finance (2021) — Flash L,69,0.040831,0
+Cream Finance (2021) — Flash L,70,0.024787,0
+Cream Finance (2021) — Flash L,71,0.017428,0
+Cream Finance (2021) — Flash L,72,0.036072,0
+Cream Finance (2021) — Flash L,73,0.018658,0
+Cream Finance (2021) — Flash L,74,0.031579,0
+Cream Finance (2021) — Flash L,75,0.015398,0
+Cream Finance (2021) — Flash L,76,0.037292,0
+Cream Finance (2021) — Flash L,77,0.016116,0
+Cream Finance (2021) — Flash L,78,0.018163,0
+Cream Finance (2021) — Flash L,79,0.033947,0
+Cream Finance (2021) — Flash L,80,0.032546,0
+Cream Finance (2021) — Flash L,81,0.026632,0
+Cream Finance (2021) — Flash L,82,0.018489,0
+Cream Finance (2021) — Flash L,83,0.075601,0
+Cream Finance (2021) — Flash L,84,0.035663,0
+Cream Finance (2021) — Flash L,85,0.021169,0
+Cream Finance (2021) — Flash L,86,0.011739,0
+Cream Finance (2021) — Flash L,87,0.008588,0
+Cream Finance (2021) — Flash L,88,0.020101,0
+Cream Finance (2021) — Flash L,89,0.010052,0
+Cream Finance (2021) — Flash L,90,0.021999,0
+Cream Finance (2021) — Flash L,91,0.008876,0
+Cream Finance (2021) — Flash L,92,0.008880,0
+Cream Finance (2021) — Flash L,93,0.019728,0
+Cream Finance (2021) — Flash L,94,0.018553,0
+Cream Finance (2021) — Flash L,95,0.010404,0
+Cream Finance (2021) — Flash L,96,0.007806,0
+Cream Finance (2021) — Flash L,97,0.014277,0
+Cream Finance (2021) — Flash L,98,0.005637,0
+Cream Finance (2021) — Flash L,99,0.008400,0
+Cream Finance (2021) — Flash L,100,0.412237,1
+Cream Finance (2021) — Flash L,101,0.462972,1
+Cream Finance (2021) — Flash L,102,0.007494,0
+Cream Finance (2021) — Flash L,103,0.008301,0
+Cream Finance (2021) — Flash L,104,0.025453,0
+Cream Finance (2021) — Flash L,105,0.006630,0
+Cream Finance (2021) — Flash L,106,0.012637,0
+Cream Finance (2021) — Flash L,107,0.014868,0
+Cream Finance (2021) — Flash L,108,0.006078,0
+Cream Finance (2021) — Flash L,109,0.015351,0
+Cream Finance (2021) — Flash L,110,0.010476,0
+Cream Finance (2021) — Flash L,111,0.014715,0
+Cream Finance (2021) — Flash L,112,0.010229,0
+Cream Finance (2021) — Flash L,113,0.004426,0
+Cream Finance (2021) — Flash L,114,0.006015,0
+Cream Finance (2021) — Flash L,115,0.004773,0
+Cream Finance (2021) — Flash L,116,0.003765,0
+Cream Finance (2021) — Flash L,117,0.006723,0
+Cream Finance (2021) — Flash L,118,0.003467,0
+Cream Finance (2021) — Flash L,119,0.004216,0
+Cream Finance (2021) — Flash L,120,0.009793,0
+Cream Finance (2021) — Flash L,121,0.003447,0
+Cream Finance (2021) — Flash L,122,0.003049,0
+Ronin Bridge (2022) — Validato,0,0.035733,0
+Ronin Bridge (2022) — Validato,1,0.033954,0
+Ronin Bridge (2022) — Validato,2,0.032867,0
+Ronin Bridge (2022) — Validato,3,0.031278,0
+Ronin Bridge (2022) — Validato,4,0.029131,0
+Ronin Bridge (2022) — Validato,5,0.059535,0
+Ronin Bridge (2022) — Validato,6,0.051010,0
+Ronin Bridge (2022) — Validato,7,0.032891,0
+Ronin Bridge (2022) — Validato,8,0.029620,0
+Ronin Bridge (2022) — Validato,9,0.026524,0
+Ronin Bridge (2022) — Validato,10,0.284648,0
+Ronin Bridge (2022) — Validato,11,0.331043,0
+Ronin Bridge (2022) — Validato,12,0.127339,0
+Ronin Bridge (2022) — Validato,13,0.349938,0
+Ronin Bridge (2022) — Validato,14,0.238621,0
+Ronin Bridge (2022) — Validato,15,0.189226,0
+Ronin Bridge (2022) — Validato,16,0.167313,0
+Ronin Bridge (2022) — Validato,17,0.139541,0
+Ronin Bridge (2022) — Validato,18,0.121702,0
+Ronin Bridge (2022) — Validato,19,0.070749,0
+Ronin Bridge (2022) — Validato,20,0.113779,0
+Ronin Bridge (2022) — Validato,21,0.095400,0
+Ronin Bridge (2022) — Validato,22,0.146038,0
+Ronin Bridge (2022) — Validato,23,0.116958,0
+Ronin Bridge (2022) — Validato,24,0.125711,0
+Ronin Bridge (2022) — Validato,25,0.136545,0
+Ronin Bridge (2022) — Validato,26,0.098348,0
+Ronin Bridge (2022) — Validato,27,0.077136,0
+Ronin Bridge (2022) — Validato,28,0.106555,0
+Ronin Bridge (2022) — Validato,29,0.093127,0
+Ronin Bridge (2022) — Validato,30,0.146244,0
+Ronin Bridge (2022) — Validato,31,0.079529,0
+Ronin Bridge (2022) — Validato,32,0.088802,0
+Ronin Bridge (2022) — Validato,33,0.069573,0
+Ronin Bridge (2022) — Validato,34,0.056714,0
+Ronin Bridge (2022) — Validato,35,0.071318,0
+Ronin Bridge (2022) — Validato,36,0.057491,0
+Ronin Bridge (2022) — Validato,37,0.077428,0
+Ronin Bridge (2022) — Validato,38,0.066941,0
+Ronin Bridge (2022) — Validato,39,0.031921,0
+Ronin Bridge (2022) — Validato,40,0.068029,0
+Ronin Bridge (2022) — Validato,41,0.087779,0
+Ronin Bridge (2022) — Validato,42,0.047448,0
+Ronin Bridge (2022) — Validato,43,0.047730,0
+Ronin Bridge (2022) — Validato,44,0.039993,0
+Ronin Bridge (2022) — Validato,45,0.029006,0
+Ronin Bridge (2022) — Validato,46,0.045388,0
+Ronin Bridge (2022) — Validato,47,0.064839,0
+Ronin Bridge (2022) — Validato,48,0.030843,0
+Ronin Bridge (2022) — Validato,49,0.015032,0
+Ronin Bridge (2022) — Validato,50,0.030107,0
+Ronin Bridge (2022) — Validato,51,0.033105,0
+Ronin Bridge (2022) — Validato,52,0.017281,0
+Ronin Bridge (2022) — Validato,53,0.021866,0
+Ronin Bridge (2022) — Validato,54,0.036354,0
+Ronin Bridge (2022) — Validato,55,0.015747,0
+Ronin Bridge (2022) — Validato,56,0.037201,0
+Ronin Bridge (2022) — Validato,57,0.029774,0
+Ronin Bridge (2022) — Validato,58,0.012982,0
+Ronin Bridge (2022) — Validato,59,0.017027,0
+Ronin Bridge (2022) — Validato,60,0.031842,0
+Ronin Bridge (2022) — Validato,61,0.007377,0
+Ronin Bridge (2022) — Validato,62,0.094686,0
+Ronin Bridge (2022) — Validato,63,0.035511,0
+Ronin Bridge (2022) — Validato,64,0.086082,0
+Ronin Bridge (2022) — Validato,65,0.057094,0
+Ronin Bridge (2022) — Validato,66,0.042017,0
+Ronin Bridge (2022) — Validato,67,0.050105,0
+Ronin Bridge (2022) — Validato,68,0.049399,0
+Ronin Bridge (2022) — Validato,69,0.040831,0
+Ronin Bridge (2022) — Validato,70,0.024787,0
+Ronin Bridge (2022) — Validato,71,0.017428,0
+Ronin Bridge (2022) — Validato,72,0.036072,0
+Ronin Bridge (2022) — Validato,73,0.018658,0
+Ronin Bridge (2022) — Validato,74,0.031579,0
+Ronin Bridge (2022) — Validato,75,0.015398,0
+Ronin Bridge (2022) — Validato,76,0.037292,0
+Ronin Bridge (2022) — Validato,77,0.016116,0
+Ronin Bridge (2022) — Validato,78,0.018163,0
+Ronin Bridge (2022) — Validato,79,0.033947,0
+Ronin Bridge (2022) — Validato,80,0.032546,0
+Ronin Bridge (2022) — Validato,81,0.026632,0
+Ronin Bridge (2022) — Validato,82,0.018489,0
+Ronin Bridge (2022) — Validato,83,0.075601,0
+Ronin Bridge (2022) — Validato,84,0.035663,0
+Ronin Bridge (2022) — Validato,85,0.021169,0
+Ronin Bridge (2022) — Validato,86,0.011739,0
+Ronin Bridge (2022) — Validato,87,0.008588,0
+Ronin Bridge (2022) — Validato,88,0.020101,0
+Ronin Bridge (2022) — Validato,89,0.010052,0
+Ronin Bridge (2022) — Validato,90,0.021999,0
+Ronin Bridge (2022) — Validato,91,0.008876,0
+Ronin Bridge (2022) — Validato,92,0.008880,0
+Ronin Bridge (2022) — Validato,93,0.019728,0
+Ronin Bridge (2022) — Validato,94,0.018553,0
+Ronin Bridge (2022) — Validato,95,0.010404,0
+Ronin Bridge (2022) — Validato,96,0.007806,0
+Ronin Bridge (2022) — Validato,97,0.014277,0
+Ronin Bridge (2022) — Validato,98,0.005637,0
+Ronin Bridge (2022) — Validato,99,0.008400,0
+Ronin Bridge (2022) — Validato,100,0.393430,0
+Ronin Bridge (2022) — Validato,101,0.206294,0
+Ronin Bridge (2022) — Validato,102,0.425418,1
+Ronin Bridge (2022) — Validato,103,0.465408,1
+Ronin Bridge (2022) — Validato,104,0.423888,1
+Ronin Bridge (2022) — Validato,105,0.007219,0
+Ronin Bridge (2022) — Validato,106,0.011158,0
+Ronin Bridge (2022) — Validato,107,0.029150,0
+Ronin Bridge (2022) — Validato,108,0.008614,0
+Ronin Bridge (2022) — Validato,109,0.006618,0
+Ronin Bridge (2022) — Validato,110,0.005679,0
+Ronin Bridge (2022) — Validato,111,0.006758,0
+Ronin Bridge (2022) — Validato,112,0.006852,0
+Ronin Bridge (2022) — Validato,113,0.006841,0
+Ronin Bridge (2022) — Validato,114,0.015719,0
+Ronin Bridge (2022) — Validato,115,0.024378,0
+Ronin Bridge (2022) — Validato,116,0.004349,0
+Ronin Bridge (2022) — Validato,117,0.008816,0
+Ronin Bridge (2022) — Validato,118,0.003831,0
+Ronin Bridge (2022) — Validato,119,0.003217,0
+Ronin Bridge (2022) — Validato,120,0.004392,0
+Ronin Bridge (2022) — Validato,121,0.004365,0
+Ronin Bridge (2022) — Validato,122,0.003848,0
+Ronin Bridge (2022) — Validato,123,0.010140,0
+Ronin Bridge (2022) — Validato,124,0.003069,0
+Ronin Bridge (2022) — Validato,125,0.002734,0
