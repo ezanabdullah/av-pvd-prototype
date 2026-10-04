@@ -44,7 +44,7 @@ Risk(Bi) = Corroboration × [w₁·GasAnomaly(Bi) + w₂·CallDepthDeviation(Bi)
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/av-pvd-prototype
+git clone https://github.com/ezanabdullah/av-pvd-prototype
 cd av-pvd-prototype
 pip install -e .
 
@@ -152,3 +152,22 @@ examples/
 tests/
   test_core.py  — 14 unit tests (all passing)
 ```
+
+## Reproducing the paper's results
+
+All numbers in the accompanying manuscript ("Toward Early-Stage, Intra-Execution Security in Blockchain: The AV-PVD Framework") come from the scripts below. Use Python 3.11+; the baseline comparison also needs `scikit-learn` and `numpy`. The alert threshold used in the paper is **0.40**; note that the library default (0.6) is higher and detects none of the five profiles.
+
+```bash
+python3.11 examples/evaluate_exploits.py          # reference run (seed 42, threshold 0.40)
+python3.11 experiments/seed_threshold_sweep.py    # 30 seeds x 5 profiles -> experiments/results/
+python3.11 experiments/analyze_sweep.py           # detection / latency / false alerts per threshold
+python3.11 experiments/ablation.py                # component ablation -> experiments/results/ablation.json
+python3.11 experiments/analyze_ablation.py        # ablation table
+python3.11 experiments/baselines.py               # single-signal rules + Isolation Forest (needs scikit-learn)
+python3.11 experiments/adversarial_at_tau.py      # slow-drain and trust-farming at threshold 0.40 and 0.50
+python3.11 experiments/component_breakdown.py     # per-block Risk components for each profile
+python3.11 benchmark.py                           # per-stage timing and memory
+```
+
+The `experiments/results/` directory contains the raw per-block VScores used for the tables (`seed_threshold_sweep.json`, `ablation.json`, `baselines.json`). The exploit profiles are synthetic reconstructions from public post-mortems and DeFiHackLabs, not replays of archive-node traces.
+
