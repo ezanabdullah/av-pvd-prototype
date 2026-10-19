@@ -164,6 +164,7 @@ python3.11 experiments/analyze_sweep.py           # detection / latency / false 
 python3.11 experiments/ablation.py                # component ablation -> experiments/results/ablation.json
 python3.11 experiments/analyze_ablation.py        # ablation table
 python3.11 experiments/baselines.py               # single-signal rules + Isolation Forest (needs scikit-learn)
+python3.11 experiments/heldout_threshold.py      # thresholds calibrated on seeds 0-14, tested on 15-29 (needs scikit-learn)
 python3.11 experiments/adversarial_at_tau.py      # slow-drain and trust-farming at threshold 0.40 and 0.50
 python3.11 experiments/component_breakdown.py     # per-block Risk components for each profile
 python3.11 benchmark.py                           # per-stage timing and memory
